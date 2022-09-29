@@ -2,7 +2,7 @@
 
 int main()
 { 
-    /*this has to do with division of variables "we use the float keyword*/
+    /*this has to do with division of variables "we use the float variable type*/
     float num1 = 10;
     float num2 = 3;
     float num3 = num1/num2;
